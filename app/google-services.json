@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "461992094141",
+    "project_id": "zenq-ad6f3",
+    "storage_bucket": "zenq-ad6f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461992094141:android:dbb6242b66c443cb274ad4",
+        "android_client_info": {
+          "package_name": "com.example.titclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVIHYqQfle1dc_aBUzfACu8sT-bfbhvNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461992094141:android:ee090875a60cf671274ad4",
+        "android_client_info": {
+          "package_name": "com.example.zenQ"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVIHYqQfle1dc_aBUzfACu8sT-bfbhvNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
